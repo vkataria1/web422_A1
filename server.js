@@ -5,7 +5,7 @@
  *  (including web sites) or distributed to other students.
  *
  *  Name: Vishal Kataria, Student ID: 123094211, Date: Jan 20, 2022
- *  Cyclic Link: https://mushy-jade-tuxedo.cyclic.app/
+ *  Cyclic Link: 
  *
  ********************************************************************************/
 
